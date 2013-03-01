@@ -14,11 +14,11 @@ Shooting drains your health, so shoot wisely!
 CONTROLS
 --------------------------------
 
-		W: Move up
+			W: Move up
 
 	A: Move Left       D: Move right
 
-		D: Move down
+			D: Move down
 				 
-Left Mouse Button: Shoot
-Mouse movement: Change turret angle
+* Left Mouse Button: Shoot
+* Mouse movement: Change turret angle
