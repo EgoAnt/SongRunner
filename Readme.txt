@@ -1,11 +1,11 @@
 SongRunner README
 ================================
 Code and Game Design by: EgoAnt <br>
-Web: <a href="http://www.egoant.com">EgoAnt.com</a> <br>
+Web: http://www.egoant.com
 Email: egoant@egoant.com
 
 Music By: DST<br>
-Web: [nosoapradio.us](http://www.nosoapradio.us)
+Web: http://www.nosoapradio.us
 
 ABOUT
 --------------------------------
@@ -31,6 +31,6 @@ CONTROLS
 
 LICENSE
 ---------------------------------
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_GB">Creative Commons Attribution 3.0 Unported License</a>.
+This work is licensed under a Creative Commons Attribution 3.0 Unported License: http://creativecommons.org/licenses/by/3.0/deed.en_GB
 
 Music samples included in this are distributed under a Creative Commons Attribution license.
