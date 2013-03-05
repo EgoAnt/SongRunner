@@ -1,7 +1,7 @@
 SongRunner README
 ================================
-Code and Game Design by: EgoAnt<br>
-Web: [egoant.com](http://www.egoant.com)<br>
+Code and Game Design by: EgoAnt <br>
+Web: [egoant.com](http://www.egoant.com) <br>
 Email: egoant@egoant.com
 
 Music By: DST<br>
